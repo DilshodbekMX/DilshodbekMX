@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Machine Learning, Computer Vision, NLP
 - I can do something with: C++, Python, Matlab, C, JavaScript, R, Dart programming languages
 - I can create Desktop, Mobile, Web projects, along with Artificial Intelligence related 
-- 💞️ I’m looking to collaborate on ...
 - 📫 Find me on telegram: @ai_PR0
 
 <!---
