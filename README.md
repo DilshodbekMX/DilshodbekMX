@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<picture>
+<picture> 
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <img src="assets/header-light.svg" alt="Mamadaliev Dilshodjon — cybersecurity research, computer vision, developer tools" width="100%">
 </picture>
