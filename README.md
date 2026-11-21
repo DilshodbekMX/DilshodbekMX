@@ -10,7 +10,7 @@
 <a href="https://github.com/DilshodbekMX/folio"><img alt="Folio stars" src="https://img.shields.io/github/stars/DilshodbekMX/folio?style=flat-square&color=1f7a4d&label=folio"></a>
 <img alt="Uzbekistan" src="https://img.shields.io/badge/based%20in-Uzbekistan-555?style=flat-square">
 
-</div>
+</div> 
 
 --- 
 
