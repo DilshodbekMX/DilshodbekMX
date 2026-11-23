@@ -4,7 +4,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <img src="assets/header-light.svg" alt="Mamadaliev Dilshodjon — cybersecurity research, computer vision, developer tools" width="100%">
 </picture>
-
+ 
 <a href="https://github.com/DilshodbekMX?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DilshodbekMX&query=public_repos&label=repositories&style=flat-square&color=1f7a4d"></a>
 <a href="https://github.com/DilshodbekMX?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/DilshodbekMX?style=flat-square&color=1f7a4d&label=followers"></a>
 <a href="https://github.com/DilshodbekMX/folio"><img alt="Folio stars" src="https://img.shields.io/github/stars/DilshodbekMX/folio?style=flat-square&color=1f7a4d&label=folio"></a>
